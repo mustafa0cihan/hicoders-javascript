@@ -1,0 +1,30 @@
+main {
+  width: 100vw;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main div {
+  width: 80px;
+  height: 55px;
+  border: 1px solid black;
+  margin: 5px;
+  background-color: rgb(211, 7, 230);
+  color: white;
+  text-align: center;
+  font-size: 35px;
+  font-family: cursive;
+}
+button {
+  width: 80px;
+  height: 50px;
+  margin: 10px;
+  background-color: rgb(41, 74, 221);
+  color: white;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 20px;
+  font-family: cursive;
+}
