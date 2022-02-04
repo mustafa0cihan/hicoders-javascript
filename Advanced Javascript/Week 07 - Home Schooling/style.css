@@ -1,0 +1,55 @@
+* {
+    font-size: 20px;
+    color: rgb(3, 3, 3);
+
+}
+
+main {
+    width: 800px;
+    margin: 20px auto;
+    background-color: rgb(255, 255, 255);
+}
+
+#input {
+    width: 40px;
+    background-color: grey;
+}
+
+#workPage {
+    margin: 20px auto;
+    padding: 50px;
+    background-color: dodgerblue;
+}
+
+#studentRegisterForm {
+    padding: 50px;
+    background-color: dodgerblue;
+}
+
+#children div {
+    margin: 20px auto;
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#numbers {
+    color: white;
+}
+
+button {
+    background-color: rgb(99, 228, 13);
+}
+#workPage {
+    display: flex;
+    justify-content: space-around;
+}
+
+#selectStudent {
+    display: flex;
+    justify-content: center;
+}
+
+#children {
+    background-color: rgb(56, 192, 56);
+}
